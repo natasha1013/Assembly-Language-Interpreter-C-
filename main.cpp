@@ -1,18 +1,4 @@
-// *********************************************************
-// Program: TC3L_T12L_4_main.cpp
-// Course: TCP1101 PROGRAMMING FUNDAMENTALS
-// Lecture Class: TC3L
-// Tutorial Class: T12L
-// Trimester: 2310
-// Member_1: 1211110223 | NUR ALEYA NATASHA BINTI YASIR | 1211110223@student.mmu.edu.my | 012-6404524
-// Member_2: ID | NAME | EMAIL | PHONE
-// Member_3: ID | NAME | EMAIL | PHONE
-// *********************************************************
-// Task Distribution
-// Member_1:
-// Member_2:
-// Member_3:
-// *********************************************************
+
 
 #include <iostream>
 #include <cstring>
