@@ -1,21 +1,5 @@
-// *********************************************************
-// Program: TC3L_T12L_04_main.cpp
-// Course: TCP1101 PROGRAMMING FUNDAMENTALS
-// Lecture Class: TC3L
-// Tutorial Class: T12L
-// Trimester: 2310
-// Member_1: 1211108521 | DAMIA ALYSSA BINTI ADAM SIM | 1211108521@student.mmu.edu.my | 012-6957989
-// Member_2: 1211108251 | MAYA BINTI MOHAMMDAD AMIR HAMZAH | 1211108251@student.mmu.edu.my  | 012-9840002
-// Member_3: 1211110223 | NUR ALEYA NATASHA BINTI YASIR | 1211110223@student.mmu.edu.my | 012-6404524
-// *********************************************************
-// Task Distribution
-// Member_1: IN/OUT, INC/DEC, MOV, FLAGS, HEADER FILE
-// Member_2: ROR, ROL, SHR, SHL, LOAD, STORE
-// Member_3: ADD, SUB, DIV, MUL, TABLESET, TXT FILE
-// *********************************************************
-
-#include "TC3L_T12L_04.h"
-#include "TC3L_T12L_04.cpp"
+#include "main.h"
+#include "tables.cpp"
 
 #include <iostream>
 #include <fstream>
